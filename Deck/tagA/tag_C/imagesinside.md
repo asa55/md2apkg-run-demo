@@ -4,7 +4,7 @@ You can define flashcards with images using relative links. It doesn't matter if
 
 Here is how to reach an image in the root directory. By way of example, the `md2apkg` logo located in the root directory of this project (not inside `/Deck/`, just `/md2apkglogo.png`)
 
-![image relative linked from top level](../../../md2apkglogo.png)
+![image relative linked from top level](./../../../md2apkglogo.png)
 
 %
 
