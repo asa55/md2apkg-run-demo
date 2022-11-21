@@ -30,16 +30,6 @@ Notice the extra hash.  You can use between 1 and 6 hashes in a row.  This means
 
 Note that the single hash defining Deck Name isn't special, if you want you can use more hashes before defining the Deck Name and it won't break anything.  Similarly, you can use single-hashes to define flashcard headers.  For convenience, I follow a convention that makes sense to me by putting a single hash in front of the Deck Name, and the same number of hashes in the headers of my flashcards.  But the point I'm noting here is that this convention is not strictly required. Feel free to deviate from my conventions if you feel so inclined. It won't break anything.
 
-# An ignored flashcard
-
-<!-- md2apkg ignore-card -->
-
-Because of the `md2apkg ignore-card` label
-
-%
-
-This flashcard will *not* appear in the flashcard deck. In other words, this specific flashcard entry for "An ignored flashcard" won't be visible in the Anki application itself if you convert this into a `.apkg` flashcard deck and import it into Anki.
-
 ##### A multiple choice flashcard
 
 <!-- md2apkg type multiple-choice -->
