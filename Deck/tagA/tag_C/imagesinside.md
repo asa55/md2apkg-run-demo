@@ -8,7 +8,7 @@ Here is how to reach an image in the root directory. By way of example, the `md2
 
 %
 
-And here's an example with the same image but located in a folder adjacent to where the flashcard you're reading is defined. Namely, this flashcard is located in `/Deck/tagA/tag C/imageinside.md`, while the image in this next example is located in `/Deck/tagA/tag C/images/md2apkglogo.png`.
+And here's an example with the same image but located in a folder adjacent to where the flashcard you're reading is defined. Namely, this flashcard is located in `/Deck/tagA/tag_C/imageinside.md`, while the image in this next example is located in `/Deck/tagA/tag_C/images/md2apkglogo.png`.
 
 ![image relative linked from an adjacent folder](./images/md2apkglogo.png)
 

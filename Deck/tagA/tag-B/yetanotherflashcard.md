@@ -1,8 +1,8 @@
-## Flashcard with "tag B"
+## Flashcard with "tag-B"
 
 <!-- md2apkg tags oneTag -->
 
-This flashcard is tagged based on the directory path `Deck/tagA/tag B`. It will get tagged with `tagA`, and `tagA::tag B` (note the space in the tag name for `tag B`, it's intentional to demonstrate that spaces are acceptable)
+This flashcard is tagged based on the directory path `Deck/tagA/tag-B`. It will get tagged with `tagA`, and `tagA::tag-B` (note that spaces in folder names is incompatible with the auto-tagging feature of `md2apkg-run`. Instead of spaces, I recommend using `camelCase`, or `PascalCase`, or `kebab-case`, or `snake_case` for your folder names)
 
 %
 
