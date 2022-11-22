@@ -1,9 +1,9 @@
 # md2apkg-run-demo
 
-This code gives a much more detailed demonstration of what [`md2apkg-run`](https://github.com/asa55/md2apkg-run) can do. If you're new here, I recommend chacking that project out before digging into this demo code.
+This code implements the Quickstart Guide laid out in [`md2apkg-run`](https://github.com/asa55/md2apkg-run), and demonstrates that project's core features.
 
-The quickstart instructions will tell you how to build the contents of `md2apkg-run-demo` into an Anki-compatible `.apkg` flashcard deck.
+The quickstart instructions instruct you how use `md2apkg-run` to build Anki-compatible `.apkg` flashcard decks.
 
-Give it a try, pull it into Anki, and compare the flashcard deck you see there to the `.md` files you see in this repo.
+You can use `md2apkg-run` or `md2apkg-run-demo` as a template from which to build your own Anki-compatible flashcard decks.
 
-If you decide to use `md2apkg-run` to make your own flashcard decks, this demo should give you a great overview of how to implement every available feature.
+So give the quickstart a try, pull the resulting flashcard deck into Anki, and compare it to the `.md` files you see in this repo.
